@@ -2,14 +2,8 @@
 # To deploy, upload your repository to GitHub, go to the Render Dashboard,
 # select "Blueprints", and select this repository.
 
-databases:
-  - name: xeno-db
-    databaseName: xeno_db
-    user: xeno_user
-    plan: free # Free tier managed PostgreSQL database
-
 services:
-  # 1. Backend API Service
+  # 1. Backend API Service (Flask)
   - type: web
     name: xeno-backend
     env: python
@@ -17,11 +11,9 @@ services:
     startCommand: gunicorn run:app
     rootDir: backend
     envVars:
-      # Automatically use the provisioned PostgreSQL database
+      # Use a local self-contained SQLite database file (Requires NO card info on Render)
       - key: DATABASE_URL
-        fromDatabase:
-          name: xeno-db
-          property: connectionString
+        value: sqlite:///transaction_guard.db
       - key: SECRET_KEY
         generateValue: true
       - key: ROW_SPLIT_THRESHOLD
