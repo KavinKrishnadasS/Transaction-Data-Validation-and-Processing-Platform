@@ -39,7 +39,7 @@ services:
     name: xeno-frontend
     env: static
     buildCommand: npm install && npm run build
-    publishPath: dist
+    staticPublishPath: dist
     rootDir: frontend
     envVars:
       # Inject backend web service's domain dynamically into frontend build environment
