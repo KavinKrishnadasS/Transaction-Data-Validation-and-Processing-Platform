@@ -1,0 +1,14 @@
+customer_id,full_name,email,phone_number,city,signup_date
+CUST001,Rajesh Sharma,rajesh@gmail.com,+919876543210,Mumbai,2026-06-15
+CUST002,Ahana  Kumar,ahana@gmail.com,9876543211,Delhi,2026-06-15
+CUST003,John Doe,john@gmail.com,09876543212,Bangalore,2026-06-15
+CUST004,Jane Smith,jane@gmial.com,9876543213,Chennai,2026-06-15
+CUST005,Bob Taylor,bob@gmai.com,9876543214,Kolkata,2026-06-15
+CUST006,Alice Johnson,,9876543215,Pune,2026-06-15
+CUST007,Charlie Brown,,9876543216,Hyderabad,2026-06-15
+CUST008,David 123,david@gmail.com,9876543217,Jaipur,2026-06-15
+CUST009,Eva Long,eva@gmail.com,9876543218,Surat,2028-06-15
+CUST010,Frank Castle,frank@gmail.com,9876543219,Patna,2026/13/40
+,,,,,
+,,,,,
+,,,,,

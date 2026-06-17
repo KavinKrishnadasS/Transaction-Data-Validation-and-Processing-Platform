@@ -1,0 +1,306 @@
+row_number,field_name,error_code,error_message,order_id
+1,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 1
+1,Contact_Email,MISSING_FIELD,Email field is empty,Row 1
+1,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 1
+2,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 2
+2,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 2
+3,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 3
+3,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 3
+3,Contact_Email,GMAIL_FORMAT_INVALID,Gmail local part must be between 6 and 30 characters.,Row 3
+4,Contact_Email,MISSING_FIELD,Email field is empty,Row 4
+4,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 4
+5,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 5
+5,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user5@' is invalid.,Row 5
+5,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 5
+5,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 5
+6,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user6gmail.com' is invalid.,Row 6
+6,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 6
+7,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 7
+7,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user7@' is invalid.,Row 7
+7,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 7
+8,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 8
+8,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 8
+8,Contact_Email,MISSING_FIELD,Email field is empty,Row 8
+8,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 8
+8,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 8
+9,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 9
+9,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user9gmail.com' is invalid.,Row 9
+9,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 9
+9,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 9
+10,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 10
+10,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 10
+10,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 10
+11,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 11
+11,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user11gmail.com' is invalid.,Row 11
+11,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 11
+11,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 11
+12,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 12
+12,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 12
+13,Contact_Email,MISSING_FIELD,Email field is empty,Row 13
+13,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 13
+13,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 13
+14,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 14
+14,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 14
+15,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 15
+15,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user15@' is invalid.,Row 15
+15,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 15
+15,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 15
+16,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 16
+16,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 16
+16,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 16
+17,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 17
+17,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user17@' is invalid.,Row 17
+17,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 17
+18,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 18
+19,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 19
+19,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 19
+20,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 20
+20,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 20
+20,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 20
+21,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 21
+21,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 21
+21,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 21
+22,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 22
+22,Contact_Email,MISSING_FIELD,Email field is empty,Row 22
+23,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 23
+23,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user23gmail.com' is invalid.,Row 23
+23,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 23
+23,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 23
+24,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 24
+24,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 24
+24,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 24
+25,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 25
+25,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 25
+25,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 25
+25,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 25
+26,Contact_Email,MISSING_FIELD,Email field is empty,Row 26
+26,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 26
+27,Contact_Email,MISSING_FIELD,Email field is empty,Row 27
+27,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 27
+28,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 28
+28,Contact_Email,MISSING_FIELD,Email field is empty,Row 28
+28,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 28
+28,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 28
+29,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 29
+29,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 29
+30,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 30
+30,Contact_Email,MISSING_FIELD,Email field is empty,Row 30
+30,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 30
+30,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 30
+31,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 31
+31,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 31
+31,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 31
+32,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 32
+32,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user32@' is invalid.,Row 32
+32,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 32
+32,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 32
+33,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 33
+33,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 33
+33,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 33
+34,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 34
+34,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 34
+35,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 35
+35,Contact_Email,MISSING_FIELD,Email field is empty,Row 35
+35,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 35
+36,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 36
+36,Contact_Email,MISSING_FIELD,Email field is empty,Row 36
+37,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 37
+37,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 37
+37,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 37
+38,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 38
+38,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 38
+38,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 38
+38,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 38
+39,Contact_Email,MISSING_FIELD,Email field is empty,Row 39
+39,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 39
+39,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 39
+40,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 40
+40,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 40
+40,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 40
+41,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 41
+41,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 41
+41,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 41
+42,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 42
+42,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 42
+42,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 42
+43,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 43
+43,Contact_Email,MISSING_FIELD,Email field is empty,Row 43
+43,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 43
+44,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 44
+44,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 44
+44,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 44
+44,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 44
+45,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user45gmail.com' is invalid.,Row 45
+45,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 45
+45,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 45
+46,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 46
+46,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user46gmail.com' is invalid.,Row 46
+46,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 46
+46,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 46
+47,Contact_Email,MISSING_FIELD,Email field is empty,Row 47
+47,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 47
+48,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 48
+48,Contact_Email,MISSING_FIELD,Email field is empty,Row 48
+48,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 48
+48,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 48
+49,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user49gmail.com' is invalid.,Row 49
+49,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 49
+49,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 49
+50,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 50
+50,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 50
+50,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 50
+50,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 50
+51,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 51
+51,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user51@' is invalid.,Row 51
+51,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 51
+51,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 51
+52,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user52@' is invalid.,Row 52
+52,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 52
+53,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 53
+53,Contact_Email,MISSING_FIELD,Email field is empty,Row 53
+53,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 53
+53,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 53
+54,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 54
+54,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 54
+55,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 55
+55,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user55gmail.com' is invalid.,Row 55
+55,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 55
+55,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 55
+56,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 56
+56,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user56gmail.com' is invalid.,Row 56
+56,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 56
+56,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 56
+57,Contact_Email,MISSING_FIELD,Email field is empty,Row 57
+57,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 57
+57,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 57
+58,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 58
+58,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user58@' is invalid.,Row 58
+58,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 58
+59,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 59
+59,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 59
+59,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user59gmail.com' is invalid.,Row 59
+59,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 59
+60,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 60
+60,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 60
+61,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user61gmail.com' is invalid.,Row 61
+61,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 61
+62,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 62
+62,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user62gmail.com' is invalid.,Row 62
+62,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 62
+62,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 62
+63,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 63
+63,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 63
+63,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 63
+63,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 63
+64,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 64
+64,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user64gmail.com' is invalid.,Row 64
+64,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 64
+65,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 65
+65,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 65
+65,Contact_Email,MISSING_FIELD,Email field is empty,Row 65
+65,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 65
+66,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 66
+66,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user66@' is invalid.,Row 66
+66,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 66
+67,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 67
+67,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user67@' is invalid.,Row 67
+67,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 67
+67,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 67
+68,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 68
+69,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user69@' is invalid.,Row 69
+69,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 69
+69,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 69
+70,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 70
+70,Contact_Email,MISSING_FIELD,Email field is empty,Row 70
+70,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 70
+70,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 70
+71,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 71
+71,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user71@' is invalid.,Row 71
+71,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 71
+72,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 72
+72,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 72
+73,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 73
+73,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 73
+74,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 74
+74,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user74gmail.com' is invalid.,Row 74
+74,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 74
+75,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user75gmail.com' is invalid.,Row 75
+75,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 75
+76,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 76
+76,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 76
+76,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user76@' is invalid.,Row 76
+76,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 76
+76,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 76
+77,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 77
+77,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 77
+78,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 78
+78,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 78
+78,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user78@' is invalid.,Row 78
+78,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 78
+79,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 79
+79,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 79
+79,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 79
+80,Contact_Email,MISSING_FIELD,Email field is empty,Row 80
+80,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 80
+81,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user81@' is invalid.,Row 81
+81,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 81
+82,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 82
+82,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 82
+82,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 82
+83,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user83gmail.com' is invalid.,Row 83
+83,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 83
+84,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 84
+84,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '!!!' contains digits or special symbols.,Row 84
+84,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 84
+84,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 84
+85,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 85
+85,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 85
+85,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user85gmail.com' is invalid.,Row 85
+85,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 85
+85,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 85
+86,Contact_Email,MISSING_FIELD,Email field is empty,Row 86
+86,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 86
+87,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 87
+87,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 87
+88,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 88
+88,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user88gmail.com' is invalid.,Row 88
+88,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 88
+89,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 89
+89,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 89
+89,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 89
+89,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 89
+89,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 89
+90,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 90
+90,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user90@' is invalid.,Row 90
+90,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 90
+90,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 90
+91,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user91@' is invalid.,Row 91
+91,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 91
+91,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 91
+92,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 92
+92,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user92gmail.com' is invalid.,Row 92
+92,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 92
+93,Contact_Email,MISSING_FIELD,Email field is empty,Row 93
+93,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 93
+94,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 94
+94,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 94
+94,Mobile_No,INVALID_PHONE,Phone length (5) falls outside fallback range of 7-15 digits.,Row 94
+94,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 94
+95,Full_Name,NAME_FORMAT_SUSPICIOUS,Name '12345' contains digits or special symbols.,Row 95
+95,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 95
+95,Join_Date,DATE_INVALID,Date '32/13/2025' does not match any accepted formats (e.g. YYYY-MM-DD),Row 95
+96,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user96gmail.com' is invalid.,Row 96
+96,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 96
+97,Contact_Email,EMAIL_FORMAT_INVALID,Email 'user97@' is invalid.,Row 97
+97,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 97
+98,Contact_Email,MISSING_FIELD,Email field is empty,Row 98
+98,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 98
+98,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 98
+99,Client_ID,MISSING_FIELD,Identifier column 'Client_ID' is empty,Row 99
+99,Full_Name,MISSING_FIELD,Name field 'Full_Name' is empty,Row 99
+99,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 99
+99,Mobile_No,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 99
+99,Join_Date,MISSING_FIELD,Date field 'Join_Date' is empty,Row 99
+100,Contact_Email,EMAIL_FORMAT_INVALID,Email 'invalid-email' is invalid.,Row 100
+100,Mobile_No,MISSING_FIELD,Phone field 'Mobile_No' is empty,Row 100
+100,Join_Date,DATE_INVALID,Date '2025-99-99' does not match any accepted formats (e.g. YYYY-MM-DD),Row 100

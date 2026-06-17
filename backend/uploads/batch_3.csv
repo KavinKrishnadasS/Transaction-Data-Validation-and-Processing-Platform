@@ -1,0 +1,11 @@
+order_id,customer_name,phone_number,country,product_name,quantity,unit_price,payment_mode,transaction_date,transaction_time
+TXN001,Rajesh Sharma,9876543210,India,Ergonomic Mouse,2,25.00,UPI,2026-06-15,10:30:00
+TXN002,John Doe,+12025550143,United States,Mechanical Keyboard,1,99.99,Credit Card,2026-06-15,11:15:00
+TXN003,Jane Smith,+447911123456,United Kingdom,USB-C Hub,3,45.00,PayPal,15-06-2026,12:00:00
+TXN004,Tan Ah Kow,81234567,Singapore,Monitor Stand,1,55.00,Net Banking,2026-06-15,13:45:00
+TXN005,Invalid Qty,9876543210,India,Gaming Pad,-1,15.00,UPI,2026-06-15,14:00:00
+TXN006,Invalid Phone,12345,Singapore,Office Chair,1,120.00,Credit Card,2026-06-15,14:30:00
+TXN007,Invalid Date,9876543210,India,Desk Lamp,1,35.00,UPI,2026/13/40,15:00:00
+TXN008,Invalid Payment,9876543210,India,Headphones,1,80.00,BitCoin,2026-06-15,15:30:00
+TXN009,Duplicate Order,81234567,Singapore,Wireless Charger,1,29.99,Cash,2026-06-15,16:00:00
+TXN009,Duplicate Order Same ID,81234567,Singapore,Charging Cable,2,15.00,Cash,2026-06-15,16:15:00

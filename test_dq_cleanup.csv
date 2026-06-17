@@ -1,0 +1,7 @@
+customer_id,full_name,email,phone_number,city,signup_date
+CUST201,Yashvi Koshy,koshyyashvi@balakrishnan.com,9876543210,Mumbai,2026-06-15
+CUST202,Darshit Bose,darshitbose@sridhar.biz,9876543211,Delhi,2026-06-15
+CUST203,Zaina,zaina83@tiwari.net,9876543212,Bangalore,2026-06-15
+CUST204,Saksham Barman,sakshambarman@chakraborty.com,9876543213,Chennai,2026-06-15
+CUST205,Zaina Short,zaina@gmail.com,9876543214,Kolkata,2026-06-15
+CUST206,Empty Fields Row,,,Pune,2026-06-15

@@ -1,0 +1,101 @@
+Profile_ID,Employee_Name,Work_Email,Contact_Number,Hire_Date,Department,Monthly_Income,Record_Status
+EMP0001,Employee 1,employee1@company.com,9243018452,2024-02-21,IT,77303,Inactive
+EMP0002,Employee 2,employee2@company.com,9695200091,2024-06-02,Marketing,102119,Inactive
+EMP0003,Employee 3,employee3@company.com,9713410980,2024-06-04,IT,46232,On Leave
+EMP0004,Employee 4,employee4@company.com,9869436330,2024-08-28,IT,91078,On Leave
+EMP0005,Employee 5,employee5@company.com,9300262203,2024-08-28,Finance,100000,On Leave
+EMP0006,Employee 6,employee6@company.com,9757312561,2024-03-24,IT,125618,Active
+EMP0007,Employee 7,employee7@company.com,9277681814,2024-09-05,Operations,146267,On Leave
+EMP0008,Employee 8,employee8@company.com,9626060217,2024-02-16,Finance,128102,On Leave
+EMP0009,Employee 9,employee9@company.com,9715885079,2024-11-10,IT,73402,Inactive
+EMP0010,Employee 10,employee10@company.com,9918427669,2024-02-26,Operations,71104,Active
+EMP0011,Employee 11,employee11@company.com,9819024212,2024-08-08,IT,115986,Inactive
+EMP0012,Employee 12,employee12@company.com,9736338381,2024-11-27,HR,32244,Active
+EMP0013,Employee 13,employee13@company.com,9805317013,2024-08-26,Finance,51454,Active
+EMP0014,Employee 14,employee14@company.com,9565402706,2024-07-05,HR,33917,Active
+EMP0015,Employee 15,employee15@company.com,9408052586,2024-03-12,Marketing,76115,Active
+EMP0016,Employee 16,employee16@company.com,9350838271,2024-05-13,IT,79215,Inactive
+EMP0017,Employee 17,employee17@company.com,9275026794,2024-11-03,Finance,26028,On Leave
+EMP0018,Employee 18,employee18@company.com,9460895530,2024-06-22,Marketing,62914,Active
+EMP0019,Employee 19,employee19@company.com,9163185169,2024-09-04,IT,57286,Active
+EMP0020,Employee 20,employee20@company.com,9314623071,2024-08-21,Operations,96968,Inactive
+EMP0021,Employee 21,employee21@company.com,9681032845,2024-07-26,Finance,28055,Active
+EMP0022,Employee 22,employee22@company.com,9474721497,2024-09-02,HR,90951,Inactive
+EMP0023,Employee 23,employee23@company.com,9420606136,2024-07-07,Finance,49922,Inactive
+EMP0024,Employee 24,employee24@company.com,9429560339,2024-12-23,Finance,124439,On Leave
+EMP0025,Employee 25,employee25@company.com,9573526410,2024-05-18,IT,55402,Inactive
+EMP0026,Employee 26,employee26@company.com,9571709362,2024-01-10,HR,100816,On Leave
+EMP0027,Employee 27,employee27@company.com,9317897027,2024-01-20,HR,138278,Inactive
+EMP0028,Employee 28,employee28@company.com,9773250661,2024-12-01,HR,38017,Inactive
+EMP0029,Employee 29,employee29@company.com,9452325218,2024-05-01,HR,120532,On Leave
+EMP0030,Employee 30,employee30@company.com,9523495812,2024-01-17,HR,59154,On Leave
+EMP0031,Employee 31,employee31@company.com,9318044132,2024-05-20,Marketing,77125,Active
+EMP0032,Employee 32,employee32@company.com,9879958497,2024-01-02,Operations,41872,Inactive
+EMP0033,Employee 33,employee33@company.com,9532709914,2024-08-18,HR,88851,On Leave
+EMP0034,Employee 34,employee34@company.com,9226576803,2024-09-28,Marketing,91273,On Leave
+EMP0035,Employee 35,employee35@company.com,9138632309,2024-12-26,IT,32723,On Leave
+EMP0036,Employee 36,employee36@company.com,9807449222,2024-08-07,HR,38209,Inactive
+EMP0037,Employee 37,employee37@company.com,9487661613,2024-08-14,IT,131165,On Leave
+EMP0038,Employee 38,employee38@company.com,9175279205,2024-07-06,Marketing,66699,Inactive
+EMP0039,Employee 39,employee39@company.com,9424818209,2024-11-13,IT,149856,Active
+EMP0040,Employee 40,employee40@company.com,9167767560,2024-01-16,Finance,76207,Inactive
+EMP0041,Employee 41,employee41@company.com,9776757156,2024-03-25,IT,115968,Active
+EMP0042,Employee 42,employee42@company.com,9770997844,2024-11-04,Finance,52613,Active
+EMP0043,Employee 43,employee43@company.com,9380181558,2024-03-11,HR,77915,Inactive
+EMP0044,Employee 44,employee44@company.com,9212444450,2024-01-12,HR,81840,On Leave
+EMP0045,Employee 45,employee45@company.com,9828635748,2024-08-09,HR,39258,On Leave
+EMP0046,Employee 46,employee46@company.com,9471138309,2024-04-18,IT,148559,Active
+EMP0047,Employee 47,employee47@company.com,9177197630,2024-08-17,IT,137415,Inactive
+EMP0048,Employee 48,employee48@company.com,9957975714,2024-09-06,Marketing,72545,On Leave
+EMP0049,Employee 49,employee49@company.com,9709519741,2024-02-11,Finance,64677,Active
+EMP0050,Employee 50,employee50@company.com,9727691227,2024-12-08,IT,105169,Active
+EMP0051,Employee 51,employee51@company.com,9914507703,2024-04-25,Operations,37792,Active
+EMP0052,Employee 52,employee52@company.com,9553171731,2024-11-12,Marketing,73332,On Leave
+EMP0053,Employee 53,employee53@company.com,9634901849,2024-11-23,IT,101484,Active
+EMP0054,Employee 54,employee54@company.com,9880102136,2024-01-04,HR,139221,Inactive
+EMP0055,Employee 55,employee55@company.com,9402329925,2024-06-28,Finance,95427,Active
+EMP0056,Employee 56,employee56@company.com,9140151779,2024-09-03,Finance,28429,Active
+EMP0057,Employee 57,employee57@company.com,9635483973,2024-05-18,Finance,141882,Inactive
+EMP0058,Employee 58,employee58@company.com,9545123781,2024-05-27,Marketing,134102,On Leave
+EMP0059,Employee 59,employee59@company.com,9216254995,2024-02-15,IT,92590,On Leave
+EMP0060,Employee 60,employee60@company.com,9618718558,2024-03-05,Finance,88655,Inactive
+,12345,,,,,-5000,Unknown
+EMP@@62,,user@,,,Dept123,,
+EMP@@63,!!!,invalid-email,abcdefghij,,,abc,Unknown
+,12345,user@,1234,2024-99-99,,,
+EMP@@65,!!!,invalid-email,1234,,,,Unknown
+,,,,2024-99-99,,,
+EMP@@67,,,,2024-99-99,Dept123,,Unknown
+,12345,user@,1234,32/13/2024,,,Unknown
+EMP@@69,!!!,user@,,32/13/2024,,,Unknown
+,!!!,user@,,,,-5000,
+,,,,,Dept123,-5000,
+EMP@@72,,,1234,32/13/2024,Dept123,,Unknown
+,12345,,,2024-99-99,Dept123,,
+EMP@@74,,,abcdefghij,,Dept123,,
+EMP@@75,,,abcdefghij,32/13/2024,Dept123,abc,
+,,,,,,,Unknown
+,12345,,1234,32/13/2024,,abc,
+,!!!,,abcdefghij,2024-99-99,,,
+EMP@@79,!!!,invalid-email,,2024-99-99,,-5000,
+,!!!,user@,,,,-5000,Unknown
+EMP@@81,12345,user@,1234,32/13/2024,,,
+,,,1234,,,abc,Unknown
+EMP@@83,,,1234,32/13/2024,,,Unknown
+,!!!,invalid-email,,32/13/2024,,abc,Unknown
+,,,1234,32/13/2024,,,
+,12345,user@,,,Dept123,-5000,Unknown
+,,,,,,,Unknown
+,!!!,user@,abcdefghij,2024-99-99,,-5000,
+,12345,,1234,32/13/2024,Dept123,abc,
+,12345,invalid-email,abcdefghij,2024-99-99,Dept123,,
+EMP@@91,,,,,Dept123,,Unknown
+EMP@@92,!!!,,1234,32/13/2024,,abc,
+,,user@,1234,2024-99-99,Dept123,abc,
+,,user@,1234,,,-5000,
+EMP@@95,!!!,,,,Dept123,,
+,!!!,invalid-email,,,,abc,
+,,user@,,,,-5000,Unknown
+,,,1234,2024-99-99,Dept123,-5000,
+,!!!,invalid-email,1234,2024-99-99,,-5000,
+,,,abcdefghij,2024-99-99,,,

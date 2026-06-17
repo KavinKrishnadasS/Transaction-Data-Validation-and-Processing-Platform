@@ -1,0 +1,82 @@
+row_number,field_name,error_code,error_message,order_id
+2,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 2
+2,Phone_Number,INVALID_PHONE,Phone length (4) falls outside fallback range of 7-15 digits.,Row 2
+2,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 2
+8,Email_Address,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 8
+8,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 8
+8,Registration_Date,INVALID_DATE,Date '2025-99-99' in 'Registration_Date' is invalid.,Row 8
+9,Email_Address,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 9
+9,Phone_Number,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 9
+9,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 9
+10,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 10
+10,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 10
+10,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 10
+18,Email_Address,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 18
+18,Phone_Number,INVALID_PHONE,Phone length (4) falls outside fallback range of 7-15 digits.,Row 18
+18,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 18
+22,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 22
+22,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 22
+22,Registration_Date,INVALID_DATE,Date '32/13/2025' in 'Registration_Date' is invalid.,Row 22
+25,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 25
+25,Phone_Number,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 25
+25,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 25
+30,Email_Address,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 30
+30,Phone_Number,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 30
+30,Registration_Date,INVALID_DATE,Date '32/13/2025' in 'Registration_Date' is invalid.,Row 30
+32,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 32
+32,Phone_Number,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 32
+32,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 32
+33,Email_Address,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 33
+33,Phone_Number,INVALID_PHONE,Phone length (4) falls outside fallback range of 7-15 digits.,Row 33
+33,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 33
+37,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 37
+37,Phone_Number,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 37
+37,Registration_Date,INVALID_DATE,Date '2025-99-99' in 'Registration_Date' is invalid.,Row 37
+38,Email_Address,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 38
+38,Phone_Number,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 38
+38,Registration_Date,INVALID_DATE,Date '32/13/2025' in 'Registration_Date' is invalid.,Row 38
+40,Email_Address,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 40
+40,Phone_Number,INVALID_PHONE,Phone length (4) falls outside fallback range of 7-15 digits.,Row 40
+40,Registration_Date,INVALID_DATE,Date '2025-99-99' in 'Registration_Date' is invalid.,Row 40
+41,Email_Address,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 41
+41,Phone_Number,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 41
+41,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 41
+49,Email_Address,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 49
+49,Phone_Number,INVALID_PHONE,Phone length (4) falls outside fallback range of 7-15 digits.,Row 49
+49,Registration_Date,INVALID_DATE,Date '2025-99-99' in 'Registration_Date' is invalid.,Row 49
+54,Email_Address,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 54
+54,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 54
+54,Registration_Date,INVALID_DATE,Date '32/13/2025' in 'Registration_Date' is invalid.,Row 54
+56,Email_Address,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 56
+56,Phone_Number,INVALID_PHONE,Phone length (4) falls outside fallback range of 7-15 digits.,Row 56
+56,Registration_Date,INVALID_DATE,Date '32/13/2025' in 'Registration_Date' is invalid.,Row 56
+59,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 59
+59,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 59
+59,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 59
+68,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 68
+68,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 68
+68,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 68
+70,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 70
+70,Phone_Number,INVALID_PHONE,Phone length (0) falls outside fallback range of 7-15 digits.,Row 70
+70,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 70
+71,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 71
+71,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 71
+71,Registration_Date,INVALID_DATE,Date '32/13/2025' in 'Registration_Date' is invalid.,Row 71
+79,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 79
+79,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 79
+79,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 79
+87,Email_Address,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 87
+87,Phone_Number,INVALID_PHONE,Phone length (4) falls outside fallback range of 7-15 digits.,Row 87
+87,Registration_Date,INVALID_DATE,Date '2025-99-99' in 'Registration_Date' is invalid.,Row 87
+92,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 92
+92,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 92
+92,Registration_Date,INVALID_DATE,Date '32/13/2025' in 'Registration_Date' is invalid.,Row 92
+93,Email_Address,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 93
+93,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 93
+93,Registration_Date,INVALID_DATE,Date '32/13/2025' in 'Registration_Date' is invalid.,Row 93
+96,Email_Address,MISSING_FIELD,Email field 'Email_Address' is empty,Row 96
+96,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 96
+96,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 96
+99,Email_Address,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 99
+99,Phone_Number,MISSING_FIELD,Phone field 'Phone_Number' is empty,Row 99
+99,Registration_Date,MISSING_FIELD,Date field 'Registration_Date' is empty,Row 99

@@ -1,0 +1,107 @@
+row_number,field_name,error_code,error_message,order_id
+61,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 61
+61,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 61
+61,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 61
+62,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 62
+62,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 62
+63,Work_Email,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 63
+63,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 63
+64,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 64
+64,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 64
+64,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 64
+65,Work_Email,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 65
+65,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 65
+66,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 66
+66,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 66
+66,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 66
+67,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 67
+67,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 67
+68,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 68
+68,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 68
+68,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 68
+69,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 69
+69,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 69
+70,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 70
+70,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 70
+70,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 70
+71,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 71
+71,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 71
+71,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 71
+72,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 72
+72,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 72
+73,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 73
+73,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 73
+73,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 73
+74,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 74
+74,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 74
+75,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 75
+75,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 75
+76,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 76
+76,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 76
+76,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 76
+77,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 77
+77,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 77
+77,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 77
+78,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 78
+78,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 78
+78,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 78
+79,Work_Email,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 79
+79,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 79
+80,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 80
+80,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 80
+80,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 80
+81,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 81
+81,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 81
+82,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 82
+82,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 82
+82,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 82
+83,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 83
+83,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 83
+84,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 84
+84,Work_Email,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 84
+84,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 84
+85,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 85
+85,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 85
+85,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 85
+86,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 86
+86,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 86
+86,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 86
+87,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 87
+87,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 87
+87,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 87
+88,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 88
+88,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 88
+88,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 88
+89,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 89
+89,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 89
+89,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 89
+90,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 90
+90,Work_Email,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 90
+90,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 90
+91,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 91
+91,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 91
+92,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 92
+92,Hire_Date,INVALID_DATE,Date '32/13/2024' in 'Hire_Date' is invalid.,Row 92
+93,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 93
+93,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 93
+93,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 93
+94,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 94
+94,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 94
+94,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 94
+95,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 95
+95,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 95
+96,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 96
+96,Work_Email,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 96
+96,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 96
+97,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 97
+97,Work_Email,INVALID_EMAIL,Email 'user@' is invalid. Must end with .com.,Row 97
+97,Hire_Date,MISSING_FIELD,Date field 'Hire_Date' is empty,Row 97
+98,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 98
+98,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 98
+98,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 98
+99,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 99
+99,Work_Email,INVALID_EMAIL,Email 'invalid-email' is invalid. Must end with .com.,Row 99
+99,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 99
+100,Profile_ID,MISSING_FIELD,Identifier column 'Profile_ID' is empty,Row 100
+100,Work_Email,MISSING_FIELD,Email field 'Work_Email' is empty,Row 100
+100,Hire_Date,INVALID_DATE,Date '2024-99-99' in 'Hire_Date' is invalid.,Row 100
