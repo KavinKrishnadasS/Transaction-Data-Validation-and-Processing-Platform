@@ -16,7 +16,8 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     
     # File uploads
-    UPLOAD_FOLDER = os.environ.get('UPLOAD_FOLDER', os.path.join(base_dir, 'uploads'))
+    _raw_upload = os.environ.get('UPLOAD_FOLDER', 'uploads')
+    UPLOAD_FOLDER = _raw_upload if os.path.isabs(_raw_upload) else os.path.abspath(os.path.join(base_dir, _raw_upload))
     MAX_CONTENT_LENGTH = int(os.environ.get('MAX_CONTENT_LENGTH', 16 * 1024 * 1024)) # Default 16MB
     
     # Validation engine limits
